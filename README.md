@@ -1,16 +1,17 @@
-## Hi there 👋
+### Sura Sammour 
 
-<!--
-**SuraSammour12/SuraSammour12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI, data, and the next wave of Fintech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 How to reach me:
+
+- **Email:** `sura.a.sammour@gmail.com`
+- **LinkedIn:** [Sura Sammour](https://www.linkedin.com/in/sura-sammour-093a29373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_content_details%3BQkOXTzOdTh604arTP4wwlA%3D%3D)
+- **Check my repositories:** [GitHub](https://github.com/SuraSammour12?tab=repositories)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuraSammour12&layout=compact&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuraSammour12&theme=github-dark)
