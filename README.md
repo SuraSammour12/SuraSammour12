@@ -12,6 +12,4 @@ Exploring AI, data, and the next wave of Fintech.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuraSammour12&layout=compact&theme=radical)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuraSammour12&theme=github-dark)
