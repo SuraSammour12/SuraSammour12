@@ -1,6 +1,6 @@
 ### Sura Sammour 
 
-Exploring AI, data, and the next wave of Fintech.
+Exploring AI 
 
 ---
 
