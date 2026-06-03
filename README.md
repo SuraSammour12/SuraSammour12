@@ -1,6 +1,8 @@
 ### Sura Sammour 
 
-Exploring AI 
+Data Scientist | Building AI-powered solutions
+
+
 
 ---
 
