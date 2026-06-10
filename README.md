@@ -14,4 +14,4 @@ Data Scientist | Building AI-powered solutions
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuraSammour12&theme=github-dark)
+
