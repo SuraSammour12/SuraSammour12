@@ -15,3 +15,4 @@ Data Scientist | Building AI-powered solutions
 ---
 
 
+[![Sura's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuraSammour12&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/SuraSammour12)
